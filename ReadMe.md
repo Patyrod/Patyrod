@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou estudante de Front end.
+Sou estudante de desenvolvimento web full stack .
 
 
 ## 🌐 Socials:
